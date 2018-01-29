@@ -26,8 +26,7 @@ A curated list of resources dedicated to optical flow algorithms. Any suggestion
   - 22872 image pairs, a synthetic dataset with optical flow ground truth
   - Task: optical flow.
 
-- [`ChairsSDHom (Vision group, Uni-Freiburg)`](https://lmb.informatik.uni-freiburg.de/resources/datasets/FlyingChairs.en.html) `2015`
-  - 22872 image pairs, a synthetic dataset with optical flow ground truth
+- [`ChairsSDHom (Vision group, Uni-Freiburg)`](https://lmb.informatik.uni-freiburg.de/resources/datasets/FlyingChairs.en.html) `2017`
   - Task: optical flow
   - Designed to be robust to untextured regions and to produce flow magnitude histograms close to those of the UCF101 dataset (small displacement, less than 1 pixel).
 
