@@ -8,8 +8,10 @@ A curated list of resources dedicated to optical flow algorithms. Any suggestion
 ### Classical methods
 - [1981-IJCAI, Lucas-Kanade method] An iterative image registration technique with an application to stereo vision
 - [1981-AI, Horn-Schunck method] Determining optical flow [`paper`](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.562&rep=rep1&type=pdf)
+- [2004-ECCV, Brox method] High Accuracy Optical Flow Estimation Based on a Theory for Warping [`paper`](http://www.mia.uni-saarland.de/Publications/brox-eccv04-of.pdf) [`code`](https://docs.opencv.org/master/d7/d18/classcv_1_1cuda_1_1BroxOpticalFlow.html)
 - [2005-IJCV] Lucas/Kanade meets Horn/Schunck: Combining local and global optic flow methods [`paper`](http://www.mia.uni-saarland.de/Publications/bruhn-ijcv05c.pdf)
 - [2007-DAGM, TVL1 method] A duality based approach for realtime tv-l1 optical flow [`paper`](A duality based approach for realtime tv-l1 optical flow) [`code`](https://docs.opencv.org/master/d6/d39/classcv_1_1cuda_1_1OpticalFlowDual__TVL1.html)
+- [2011-TPAMI, LDOF flow] Large displacement optical flow: descriptor matching in variational motion estimation [`paper`](https://lmb.informatik.uni-freiburg.de/people/brox/pub/brox_tpami10_ldof.pdf) [`code`](https://lmb.informatik.uni-freiburg.de/resources/binaries/)
 
 ### Deep learning based methods
 - [2015-ICCV, FlowNet1] FlowNet: Learning Optical Flow with Convolutional Networks [`paper`](https://arxiv.org/abs/1504.06852) [`new code`](https://github.com/liruoteng/FlowNet)  [`old code`](https://lmb.informatik.uni-freiburg.de/resources/software.php)
@@ -19,7 +21,10 @@ A curated list of resources dedicated to optical flow algorithms. Any suggestion
 - [2017-Xiv] Robust Optical Flow Estimation in Rainy Scenes [`paper`](https://arxiv.org/pdf/1704.05239.pdf)
 
 ### Others
+- [2010-ECCV] Dense point trajectories by GPU-accelerated large displacement optical flow [`paper`](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2010/EECS-2010-104.pdf) [`code`](https://lmb.informatik.uni-freiburg.de/resources/binaries/)
 
+### Optical flow toolkit
+- [Li Routeng's toolbox] Python-based optical flow toolkit for existing popular dataset [`code`](https://github.com/liruoteng/OpticalFlowToolkit)
 
 ## Datasets
 - [`Flying Chairs (Vision group, Uni-Freiburg)`](https://lmb.informatik.uni-freiburg.de/resources/datasets/FlyingChairs.en.html) `2015`
