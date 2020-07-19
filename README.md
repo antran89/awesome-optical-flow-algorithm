@@ -14,6 +14,7 @@ A curated list of resources dedicated to optical flow algorithms. Any suggestion
 - [2007-DAGM, TVL1 method] A duality based approach for realtime tv-l1 optical flow [`paper`](http://www-pequan.lip6.fr/~bereziat/cours/master/vision/papers/zach07.pdf) [`code`](https://docs.opencv.org/master/d6/d39/classcv_1_1cuda_1_1OpticalFlowDual__TVL1.html)
 - [2011-TPAMI, LDOF flow] Large displacement optical flow: descriptor matching in variational motion estimation [`paper`](https://lmb.informatik.uni-freiburg.de/people/brox/pub/brox_tpami10_ldof.pdf) [`code`](https://lmb.informatik.uni-freiburg.de/resources/binaries/)
 - [2013-ICCV, deep flow] DeepFlow: Large Displacement Optical Flow with Deep Matching [`paper`](https://www.robots.ox.ac.uk/~vgg/rg/papers/DeepFlow_iccv2013.pdf) [`homepage`](https://thoth.inrialpes.fr/src/deepflow/) [`code`](https://thoth.inrialpes.fr/src/deepflow/)
+- [2016-ECCV, DIS flow] Fast Optical Flow using Dense Inverse Search [`paper`](https://arxiv.org/pdf/1603.03590.pdf) [`code`](https://github.com/tikroeger/OF_DIS)
 
 ### Deep learning based methods
 - [2015-ICCV, FlowNet1] FlowNet: Learning Optical Flow with Convolutional Networks [`paper`](https://arxiv.org/abs/1504.06852) [`new code`](https://github.com/liruoteng/FlowNet)  [`old code`](https://lmb.informatik.uni-freiburg.de/resources/software.php)
