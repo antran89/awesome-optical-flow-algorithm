@@ -21,7 +21,6 @@ A curated list of resources dedicated to optical flow algorithms. Any suggestion
 - [2017-CVPR, FlowNet2] FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks [`paper`](https://arxiv.org/abs/1612.01925) [`code`](https://github.com/lmb-freiburg/flownet2) [`homepage`](https://lmb.informatik.uni-freiburg.de/Publications/2017/IMKDB17/)
 - [2020-ECCV, best paper, RAFT] RAFT: Recurrent All Pairs Field Transforms for Optical Flow [`paper`](https://arxiv.org/abs/2003.12039) [`code`](https://github.com/princeton-vl/RAFT)
 
-
 ### Optical flow in severe environment (haze, rain)
 - [2017-Xiv] Robust Optical Flow Estimation in Rainy Scenes [`paper`](https://arxiv.org/pdf/1704.05239.pdf)
 
