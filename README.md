@@ -29,6 +29,7 @@ A curated list of resources dedicated to optical flow algorithms. Any suggestion
 
 ### Optical flow toolkit
 - [Li Routeng's toolbox] Python-based optical flow toolkit for existing popular dataset [`code`](https://github.com/liruoteng/OpticalFlowToolkit)
+- [EzFlow] A modular PyTorch library for optical flow estimation using neural networks [`code`](https://github.com/neu-vig/ezflow) [`documentation`](https://ezflow.readthedocs.io/en/latest/)
 
 ## Datasets
 - [`Middlebury`](http://vision.middlebury.edu/flow/) `2009` [`paper`](http://vision.middlebury.edu/flow/floweval-ijcv2011.pdf)
